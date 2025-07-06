@@ -1,0 +1,23 @@
+Material: mp-884
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.8446 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -33.28 to 15.47 eV
+  Fermi energy (DOS): 6.7391 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 638
+  Bands: 96
+  Fermi energy (BS): 6.8446 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

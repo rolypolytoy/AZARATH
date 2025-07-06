@@ -1,0 +1,23 @@
+Material: mp-32829
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: -0.0021 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -75.13 to 24.16 eV
+  Fermi energy (DOS): -0.0818 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 603
+  Bands: 48
+  Fermi energy (BS): -0.0021 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

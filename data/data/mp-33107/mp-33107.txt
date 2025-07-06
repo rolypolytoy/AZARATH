@@ -1,0 +1,24 @@
+Material: mp-33107
+==================================================
+
+Band Gap: 1.1929 eV
+Fermi Energy: -1.7545 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -28.74 to 30.90 eV
+  Fermi energy (DOS): -1.7545 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 147
+  Bands: 48
+  Fermi energy (BS): -1.8838 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: -1.9761 eV
+  CBM: -0.4530 eV
+  Direct gap: 1.5390 eV

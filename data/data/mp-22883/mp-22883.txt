@@ -1,0 +1,24 @@
+Material: mp-22883
+==================================================
+
+Band Gap: 2.4224 eV
+Fermi Energy: 1.0021 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -16.41 to 13.17 eV
+  Fermi energy (DOS): 0.9570 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 112
+  Bands: 30
+  Fermi energy (BS): 1.0021 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 0.9530 eV
+  CBM: 3.3754 eV
+  Direct gap: 2.5540 eV

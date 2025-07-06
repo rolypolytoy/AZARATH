@@ -1,0 +1,24 @@
+material_id: mp-27837
+band_gap: 6.9678
+efermi: -4.02197473
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-2300764
+dos_total_band_gap: 6.812099999999999
+dos_total_cbm: 2.8770000000000002
+dos_total_vbm: -3.9351000000000003
+dos_total_efermi: -3.92934818
+bs_setyawan_curtarolo_task_id: mp-1063907
+bs_setyawan_curtarolo_band_gap: 6.9678
+bs_setyawan_curtarolo_cbm: {'band_index': {'1': [11]}, 'kpoint_index': [0, 76, 77], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': 2.9008000000000003, 'projections': {'1': [[0.11950000000000001, 0.0115, 0.0483, 0.0483], [0.0, 0.0, 0.0001, 0.0001], [0.0, 0.0, 0.0015, 0.0015], [0.0, 0.0, 0.0002, 0.0002], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [10]}, 'kpoint_index': [121, 122], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59d30>, 'energy': -4.067, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0], [0.0011, 0.0, 0.2873, 0.2873], [0.0002, 0.0, 0.046200000000000005, 0.046200000000000005], [0.00030000000000000003, 0.0, 0.067, 0.067], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_setyawan_curtarolo_efermi: -4.02197473
+bs_hinuma_task_id: mp-2192140
+bs_hinuma_band_gap: 6.8138000000000005
+bs_hinuma_cbm: {'band_index': {'1': [11]}, 'kpoint_index': [0, 76, 77, 138], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a200>, 'energy': 2.7739000000000003, 'projections': {'1': [[0.1168, 0.010700000000000001, 0.046700000000000005, 0.046700000000000005], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0001, 0.0001], [0.0, 0.0, 0.0019, 0.0019], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_vbm: {'band_index': {'1': [9, 10]}, 'kpoint_index': [14, 15], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a3c0>, 'energy': -4.0399, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0], [0.0043, 0.0, 0.4041, 0.4041], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_efermi: -3.84118245
+bs_latimer_munro_task_id: mp-2613463
+bs_latimer_munro_band_gap: 6.8138000000000005
+bs_latimer_munro_cbm: {'band_index': {'1': [11]}, 'kpoint_index': [24, 25, 50, 92, 166, 167, 193], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a430>, 'energy': 2.7739000000000003, 'projections': {'1': [[0.1168, 0.010700000000000001, 0.046700000000000005, 0.046700000000000005], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0001, 0.0001], [0.0, 0.0, 0.0019, 0.0019], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_vbm: {'band_index': {'1': [9, 10]}, 'kpoint_index': [207, 208, 231], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a190>, 'energy': -4.0399, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0], [0.0043, 0.0, 0.4041, 0.4041], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_efermi: -3.84118185

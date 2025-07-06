@@ -1,0 +1,23 @@
+Material: mp-28
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 9.6389 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.39 to 20.68 eV
+  Fermi energy (DOS): 9.5955 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 872
+  Bands: 96
+  Fermi energy (BS): 9.6389 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'W', 'K', 'L', 'U']
+
+Band edges:
+
+Band edges: N/A (metallic system)

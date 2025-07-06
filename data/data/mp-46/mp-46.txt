@@ -1,0 +1,23 @@
+Material: mp-46
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.0130 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -29.93 to 23.12 eV
+  Fermi energy (DOS): 5.9317 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 893
+  Bands: 20
+  Fermi energy (BS): 6.0130 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

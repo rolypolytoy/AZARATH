@@ -1,0 +1,24 @@
+Material: mp-341
+==================================================
+
+Band Gap: 1.9022 eV
+Fermi Energy: -1.9367 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -24.78 to 23.19 eV
+  Fermi energy (DOS): -1.9687 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 151
+  Bands: 42
+  Fermi energy (BS): -1.9367 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: -1.9730 eV
+  CBM: -0.0708 eV
+  Direct gap: 2.1192 eV

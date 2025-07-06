@@ -1,0 +1,24 @@
+Material: mp-2552
+==================================================
+
+Band Gap: 1.1503 eV
+Fermi Energy: 4.2079 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -18.03 to 21.03 eV
+  Fermi energy (DOS): 4.1445 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 120
+  Bands: 48
+  Fermi energy (BS): 4.2079 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 4.1498 eV
+  CBM: 5.3001 eV
+  Direct gap: 1.1786 eV

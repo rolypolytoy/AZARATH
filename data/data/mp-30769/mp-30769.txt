@@ -1,0 +1,23 @@
+Material: mp-30769
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 3.9703 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -46.51 to 25.58 eV
+  Fermi energy (DOS): 3.4639 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 157
+  Bands: 102
+  Fermi energy (BS): 3.9703 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

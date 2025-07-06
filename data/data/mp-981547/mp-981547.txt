@@ -1,0 +1,24 @@
+Material: mp-981547
+==================================================
+
+Band Gap: 0.1572 eV
+Fermi Energy: 3.7059 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -37.17 to 59.69 eV
+  Fermi energy (DOS): 3.7576 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 852
+  Bands: 64
+  Fermi energy (BS): 3.7059 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 3.6343 eV
+  CBM: 3.7915 eV
+  Direct gap: 0.2634 eV

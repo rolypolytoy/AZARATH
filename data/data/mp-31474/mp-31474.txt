@@ -1,0 +1,23 @@
+Material: mp-31474
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 1.4907 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -28.29 to 12.55 eV
+  Fermi energy (DOS): 1.5001 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 426
+  Bands: 96
+  Fermi energy (BS): 1.4907 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

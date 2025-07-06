@@ -1,0 +1,24 @@
+Material: mp-14787
+==================================================
+
+Band Gap: 2.5249 eV
+Fermi Energy: 2.2789 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -24.11 to 17.81 eV
+  Fermi energy (DOS): 2.1514 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 92
+  Bands: 68
+  Fermi energy (BS): 2.2789 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 2.2006 eV
+  CBM: 4.7255 eV
+  Direct gap: 2.7701 eV

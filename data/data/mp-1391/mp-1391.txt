@@ -1,0 +1,23 @@
+Material: mp-1391
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 2.0034 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -22.84 to 24.49 eV
+  Fermi energy (DOS): 1.9663 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 826
+  Bands: 96
+  Fermi energy (BS): 2.0034 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

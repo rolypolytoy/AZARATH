@@ -1,0 +1,23 @@
+Material: mp-1329
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.9009 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.19 to 11.17 eV
+  Fermi energy (DOS): 7.6561 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 583
+  Bands: 96
+  Fermi energy (BS): 7.9009 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

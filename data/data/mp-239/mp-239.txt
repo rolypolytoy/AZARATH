@@ -1,0 +1,24 @@
+Material: mp-239
+==================================================
+
+Band Gap: 1.3913 eV
+Fermi Energy: 3.4986 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -25.37 to 12.53 eV
+  Fermi energy (DOS): 3.3851 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 116
+  Bands: 96
+  Fermi energy (BS): 3.4986 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+  VBM: 3.4046 eV
+  CBM: 4.7959 eV
+  Direct gap: 1.4318 eV

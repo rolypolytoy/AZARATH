@@ -1,0 +1,23 @@
+Material: mp-2461
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 3.8064 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -40.65 to 17.40 eV
+  Fermi energy (DOS): 3.7802 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 675
+  Bands: 48
+  Fermi energy (BS): 3.8064 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'H', 'F_1', 'H_1', 'Y_1', 'X', 'N', 'M']
+
+Band edges:
+
+Band edges: N/A (metallic system)

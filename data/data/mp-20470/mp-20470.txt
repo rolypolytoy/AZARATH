@@ -1,0 +1,24 @@
+Material: mp-20470
+==================================================
+
+Band Gap: 2.9700 eV
+Fermi Energy: 2.4096 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -44.46 to 46.74 eV
+  Fermi energy (DOS): 2.3248 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 152
+  Bands: 96
+  Fermi energy (BS): 2.4096 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 2.2765 eV
+  CBM: 5.2465 eV
+  Direct gap: 3.4115 eV

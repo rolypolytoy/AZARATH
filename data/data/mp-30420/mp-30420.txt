@@ -1,0 +1,23 @@
+Material: mp-30420
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 3.2039 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -34.78 to 12.76 eV
+  Fermi energy (DOS): 3.1621 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 117
+  Bands: 382
+  Fermi energy (BS): 3.2039 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+
+Band edges: N/A (metallic system)

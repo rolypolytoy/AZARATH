@@ -1,0 +1,19 @@
+material_id: mp-31049
+band_gap: 3.4112
+efermi: 2.49469584
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-1688216
+dos_total_band_gap: 3.5112
+dos_total_cbm: 5.8453
+dos_total_vbm: 2.3341
+dos_total_efermi: 2.34205749
+bs_setyawan_curtarolo_task_id: mp-699097
+bs_setyawan_curtarolo_band_gap: 3.4112
+bs_setyawan_curtarolo_cbm: {'band_index': {'1': [23]}, 'kpoint_index': [66, 67], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': 5.8125, 'projections': {}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [22]}, 'kpoint_index': [140], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a430>, 'energy': 2.4013, 'projections': {}}
+bs_setyawan_curtarolo_efermi: 2.49469584
+bs_latimer_munro_task_id: mp-2694768
+bs_latimer_munro_band_gap: 3.4481
+bs_latimer_munro_cbm: {'band_index': {'1': [23]}, 'kpoint_index': [176, 177, 196], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59e80>, 'energy': 5.8449, 'projections': {'1': [[0.0129, 0.0129, 0.008, 0.008, 0.0268, 0.0268], [0.0011, 0.0011, 0.012100000000000001, 0.012100000000000001, 0.16690000000000002, 0.16690000000000002], [0.001, 0.001, 0.0041, 0.0041, 0.0475, 0.0475], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0206, 0.0206, 0.0, 0.0, 0.0, 0.0], [0.0063, 0.0063, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0222, 0.0222, 0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_vbm: {'band_index': {'1': [22]}, 'kpoint_index': [238], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59be0>, 'energy': 2.3968, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0, 0.0001, 0.0001], [0.0024000000000000002, 0.0024000000000000002, 0.0007, 0.0007, 0.0592, 0.0592], [0.0002, 0.0002, 0.0151, 0.0151, 0.0743, 0.0743], [0.0005, 0.0005, 0.0585, 0.0585, 0.1691, 0.1691], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0033, 0.0033, 0.0, 0.0, 0.0, 0.0], [0.0002, 0.0002, 0.0, 0.0, 0.0, 0.0], [0.0001, 0.0001, 0.0, 0.0, 0.0, 0.0], [0.0002, 0.0002, 0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_efermi: 2.4661453

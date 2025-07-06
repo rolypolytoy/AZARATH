@@ -1,0 +1,24 @@
+Material: mp-27747
+==================================================
+
+Band Gap: 0.9294 eV
+Fermi Energy: 1.9685 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -11.85 to 11.95 eV
+  Fermi energy (DOS): 2.0860 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 90
+  Bands: 96
+  Fermi energy (BS): 1.9685 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: 1.8670 eV
+  CBM: 2.7964 eV
+  Direct gap: 0.9415 eV

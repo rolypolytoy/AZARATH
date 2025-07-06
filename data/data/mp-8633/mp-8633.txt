@@ -1,0 +1,23 @@
+Material: mp-8633
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.5258 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -44.75 to 135.71 eV
+  Fermi energy (DOS): 6.5752 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 1129
+  Bands: 64
+  Fermi energy (BS): 6.5258 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'W', 'K', 'L', 'U']
+
+Band edges:
+
+Band edges: N/A (metallic system)

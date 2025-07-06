@@ -1,0 +1,23 @@
+Material: mp-493
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.8287 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -7.07 to 24.94 eV
+  Fermi energy (DOS): 6.8374 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 793
+  Bands: 36
+  Fermi energy (BS): 6.8287 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'P', 'N', 'Z_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

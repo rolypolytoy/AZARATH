@@ -1,0 +1,24 @@
+Material: mp-1591
+==================================================
+
+Band Gap: 1.3154 eV
+Fermi Energy: 7.3086 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -9.35 to 58.49 eV
+  Fermi energy (DOS): 7.3073 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 148
+  Bands: 28
+  Fermi energy (BS): 7.3086 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 7.3025 eV
+  CBM: 8.6179 eV
+  Direct gap: 1.9958 eV

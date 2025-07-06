@@ -1,0 +1,19 @@
+material_id: mp-774146
+band_gap: 0.892699999999999
+efermi: -0.86262085
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-1751270
+dos_total_band_gap: 0.8891
+dos_total_cbm: -0.0386
+dos_total_vbm: -0.9277000000000001
+dos_total_efermi: -0.9197343800000001
+bs_setyawan_curtarolo_task_id: mp-814814
+bs_setyawan_curtarolo_band_gap: 0.892699999999999
+bs_setyawan_curtarolo_cbm: {'band_index': {'1': [38]}, 'kpoint_index': [0, 55, 56], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': -0.0159, 'projections': {}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [37]}, 'kpoint_index': [82, 83, 130], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a190>, 'energy': -0.9086000000000001, 'projections': {}}
+bs_setyawan_curtarolo_efermi: -0.86262085
+bs_hinuma_task_id: mp-2094067
+bs_hinuma_band_gap: 0.8949
+bs_hinuma_cbm: {'band_index': {'1': [38]}, 'kpoint_index': [0, 55, 56], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59e80>, 'energy': -0.013900000000000001, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0005, 0.0, 0.0005], [0.0, 0.0, 0.0001, 0.0001, 0.0001, 0.0001, 0.007, 0.0, 0.007, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0002, 0.0002, 0.00030000000000000003, 0.00030000000000000003, 0.00030000000000000003, 0.00030000000000000003, 0.0022, 0.0045000000000000005, 0.0022, 0.0045000000000000005], [0.3785, 0.3785, 0.0001, 0.0001, 0.0001, 0.0001, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_vbm: {'band_index': {'1': [37]}, 'kpoint_index': [82, 83, 129], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a350>, 'energy': -0.9088, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0001, 0.0, 0.0001], [0.0, 0.0, 0.1658, 0.1658, 0.1658, 0.1658, 0.0001, 0.0099, 0.0001, 0.0099], [0.0, 0.0, 0.0007, 0.0007, 0.0007, 0.0007, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0002, 0.0002, 0.0002, 0.0002, 0.0, 0.0, 0.0, 0.0], [0.0001, 0.0001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0002, 0.0002, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_efermi: -0.85249707

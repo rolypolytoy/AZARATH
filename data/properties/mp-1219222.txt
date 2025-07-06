@@ -1,0 +1,14 @@
+material_id: mp-1219222
+band_gap: 0.0
+efermi: 4.28292559
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-1743769
+dos_total_band_gap: 0.0
+dos_total_cbm: 4.2496
+dos_total_vbm: 4.3003
+dos_total_efermi: 4.28292559
+bs_hinuma_task_id: mp-2109991
+bs_hinuma_band_gap: 0.0
+bs_hinuma_cbm: None
+bs_hinuma_vbm: None
+bs_hinuma_efermi: 4.21238284

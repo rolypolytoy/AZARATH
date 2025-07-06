@@ -1,0 +1,14 @@
+material_id: mp-15845
+band_gap: 0.6182000000000001
+efermi: 0.952944599999999
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-1696775
+dos_total_band_gap: 0.6182000000000001
+dos_total_cbm: 1.5363
+dos_total_vbm: 0.9181
+dos_total_efermi: 0.952944599999999
+bs_setyawan_curtarolo_task_id: mp-847132
+bs_setyawan_curtarolo_band_gap: 0.8873999999999991
+bs_setyawan_curtarolo_cbm: {'band_index': {'1': [32]}, 'kpoint_index': [0, 62, 63], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': 1.6098, 'projections': {}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [31]}, 'kpoint_index': ['89'], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a200>, 'energy': 0.7224, 'projections': {}}
+bs_setyawan_curtarolo_efermi: 0.781577099999999

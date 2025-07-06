@@ -1,0 +1,23 @@
+Material: mp-1961
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 4.8730 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -31.59 to 25.88 eV
+  Fermi energy (DOS): 4.8413 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 981
+  Bands: 96
+  Fermi energy (BS): 4.8730 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

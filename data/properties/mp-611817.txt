@@ -1,0 +1,14 @@
+material_id: mp-611817
+band_gap: 0.0
+efermi: 1.631960799999999
+dos_magnetic_ordering: FM
+dos_total_task_id: mp-1746764
+dos_total_band_gap: 0.0
+dos_total_cbm: 1.603
+dos_total_vbm: 1.6493
+dos_total_efermi: 1.62593786
+bs_setyawan_curtarolo_task_id: mp-870764
+bs_setyawan_curtarolo_band_gap: 0.0
+bs_setyawan_curtarolo_cbm: None
+bs_setyawan_curtarolo_vbm: None
+bs_setyawan_curtarolo_efermi: 1.631960799999999

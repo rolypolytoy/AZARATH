@@ -1,0 +1,24 @@
+Material: mp-16220
+==================================================
+
+Band Gap: 0.5334 eV
+Fermi Energy: 4.1234 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -8.53 to 12.27 eV
+  Fermi energy (DOS): 4.0812 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 73
+  Bands: 140
+  Fermi energy (BS): 4.1234 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'W', 'K', 'L', 'U']
+
+Band edges:
+  VBM: 4.0725 eV
+  CBM: 4.6059 eV
+  Direct gap: 0.8415 eV

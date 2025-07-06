@@ -1,0 +1,24 @@
+Material: mp-2150
+==================================================
+
+Band Gap: 0.1253 eV
+Fermi Energy: 4.2534 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -25.83 to 15.94 eV
+  Fermi energy (DOS): 4.2534 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 484
+  Bands: 64
+  Fermi energy (BS): 4.2298 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 4.0753 eV
+  CBM: 4.4266 eV
+  Direct gap: 1.1448 eV

@@ -1,0 +1,24 @@
+Material: mp-30034
+==================================================
+
+Band Gap: 4.4707 eV
+Fermi Energy: -0.6141 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -44.48 to 16.42 eV
+  Fermi energy (DOS): -0.7172 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 140
+  Bands: 24
+  Fermi energy (BS): -0.6141 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: -0.7603 eV
+  CBM: 3.7104 eV
+  Direct gap: 4.4707 eV

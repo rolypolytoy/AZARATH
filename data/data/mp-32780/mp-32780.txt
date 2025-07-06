@@ -1,0 +1,24 @@
+Material: mp-32780
+==================================================
+
+Band Gap: 1.6744 eV
+Fermi Energy: 0.7999 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -16.62 to 13.55 eV
+  Fermi energy (DOS): 0.7999 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 112
+  Bands: 96
+  Fermi energy (BS): 0.6953 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 0.6045 eV
+  CBM: 2.5139 eV
+  Direct gap: 1.9094 eV

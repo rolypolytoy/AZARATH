@@ -1,0 +1,23 @@
+Material: mp-16370
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.2989 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -34.69 to 11.73 eV
+  Fermi energy (DOS): 6.7539 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 538
+  Bands: 96
+  Fermi energy (BS): 7.2989 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'P', 'N', 'Z_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

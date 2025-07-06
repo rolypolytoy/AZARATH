@@ -1,0 +1,24 @@
+Material: mp-7000
+==================================================
+
+Band Gap: 5.7190 eV
+Fermi Energy: 0.8900 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -20.36 to 18.13 eV
+  Fermi energy (DOS): 0.6373 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 127
+  Bands: 48
+  Fermi energy (BS): 0.8900 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 0.8404 eV
+  CBM: 6.5594 eV
+  Direct gap: 5.9979 eV

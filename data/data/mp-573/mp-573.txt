@@ -1,0 +1,23 @@
+Material: mp-573
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.2472 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -61.60 to 24.05 eV
+  Fermi energy (DOS): 6.1350 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 713
+  Bands: 96
+  Fermi energy (BS): 6.2472 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+
+Band edges: N/A (metallic system)

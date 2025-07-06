@@ -1,0 +1,24 @@
+Material: mp-380
+==================================================
+
+Band Gap: 1.2004 eV
+Fermi Energy: 1.3212 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -13.11 to 17.95 eV
+  Fermi energy (DOS): 1.3170 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 139
+  Bands: 36
+  Fermi energy (BS): 1.3212 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 1.3088 eV
+  CBM: 2.5092 eV
+  Direct gap: 1.2004 eV

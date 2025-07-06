@@ -1,0 +1,24 @@
+Material: mp-30086
+==================================================
+
+Band Gap: 4.1525 eV
+Fermi Energy: -2.9557 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.84 to 11.82 eV
+  Fermi energy (DOS): -3.0826 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 76
+  Bands: 144
+  Fermi energy (BS): -2.9557 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: -3.0673 eV
+  CBM: 1.0852 eV
+  Direct gap: 4.1853 eV

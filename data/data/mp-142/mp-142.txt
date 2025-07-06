@@ -1,0 +1,23 @@
+Material: mp-142
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 2.7161 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -15.05 to 45.78 eV
+  Fermi energy (DOS): 2.8865 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 826
+  Bands: 40
+  Fermi energy (BS): 2.7161 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'S', 'R', 'A', 'Z', 'Y', 'X_1', 'A_1', 'T']
+
+Band edges:
+
+Band edges: N/A (metallic system)

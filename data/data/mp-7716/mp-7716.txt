@@ -1,0 +1,23 @@
+Material: mp-7716
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.1665 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -7.77 to 11.29 eV
+  Fermi energy (DOS): 6.1274 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 508
+  Bands: 96
+  Fermi energy (BS): 6.1665 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

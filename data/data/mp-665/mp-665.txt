@@ -1,0 +1,24 @@
+Material: mp-665
+==================================================
+
+Band Gap: 0.7018 eV
+Fermi Energy: 2.7044 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -20.31 to 18.21 eV
+  Fermi energy (DOS): 2.6842 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 143
+  Bands: 28
+  Fermi energy (BS): 2.7044 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 2.6541 eV
+  CBM: 3.3559 eV
+  Direct gap: 1.0890 eV

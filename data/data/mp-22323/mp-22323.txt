@@ -1,0 +1,24 @@
+Material: mp-22323
+==================================================
+
+Band Gap: 0.9586 eV
+Fermi Energy: 5.1478 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -14.00 to 23.78 eV
+  Fermi energy (DOS): 5.0470 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 108
+  Bands: 96
+  Fermi energy (BS): 5.1478 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 5.0463 eV
+  CBM: 6.0049 eV
+  Direct gap: 1.0492 eV

@@ -1,0 +1,23 @@
+Material: mp-7291
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 9.7298 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -36.08 to 22.41 eV
+  Fermi energy (DOS): 9.8115 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 875
+  Bands: 64
+  Fermi energy (BS): 9.7298 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+
+Band edges: N/A (metallic system)

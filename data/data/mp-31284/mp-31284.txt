@@ -1,0 +1,23 @@
+Material: mp-31284
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 5.8483 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -21.08 to 19.67 eV
+  Fermi energy (DOS): 5.5139 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 450
+  Bands: 128
+  Fermi energy (BS): 5.8483 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

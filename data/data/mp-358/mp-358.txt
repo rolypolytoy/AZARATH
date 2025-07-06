@@ -1,0 +1,24 @@
+Material: mp-358
+==================================================
+
+Band Gap: 0.4802 eV
+Fermi Energy: 3.1526 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -9.69 to 12.62 eV
+  Fermi energy (DOS): 3.0293 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 524
+  Bands: 96
+  Fermi energy (BS): 3.1526 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 3.0197 eV
+  CBM: 3.4999 eV
+  Direct gap: 0.6200 eV

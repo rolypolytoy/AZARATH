@@ -1,0 +1,23 @@
+Material: mp-1179643
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: -0.3165 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -18.21 to 22.04 eV
+  Fermi energy (DOS): -0.3094 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 521
+  Bands: 64
+  Fermi energy (BS): -0.3165 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+
+Band edges: N/A (metallic system)

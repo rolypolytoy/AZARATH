@@ -1,0 +1,24 @@
+Material: mp-29711
+==================================================
+
+Band Gap: 0.6389 eV
+Fermi Energy: 4.8551 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -8.60 to 16.82 eV
+  Fermi energy (DOS): 4.7864 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 101
+  Bands: 82
+  Fermi energy (BS): 4.8551 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 4.7910 eV
+  CBM: 5.4299 eV
+  Direct gap: 0.7357 eV

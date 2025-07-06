@@ -1,0 +1,24 @@
+Material: mp-9852
+==================================================
+
+Band Gap: 0.1259 eV
+Fermi Energy: 5.5779 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -21.33 to 13.65 eV
+  Fermi energy (DOS): 5.5321 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 475
+  Bands: 64
+  Fermi energy (BS): 5.5779 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: 5.5279 eV
+  CBM: 5.6538 eV
+  Direct gap: 0.6868 eV

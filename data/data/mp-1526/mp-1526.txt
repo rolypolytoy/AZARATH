@@ -1,0 +1,23 @@
+Material: mp-1526
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 5.1424 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -31.40 to 23.72 eV
+  Fermi energy (DOS): 5.0306 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 948
+  Bands: 96
+  Fermi energy (BS): 5.1424 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

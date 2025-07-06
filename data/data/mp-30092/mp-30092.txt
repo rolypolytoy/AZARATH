@@ -1,0 +1,24 @@
+Material: mp-30092
+==================================================
+
+Band Gap: 3.4576 eV
+Fermi Energy: -3.3297 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -37.77 to 11.54 eV
+  Fermi energy (DOS): -3.4448 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 74
+  Bands: 142
+  Fermi energy (BS): -3.3297 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: -3.4463 eV
+  CBM: 0.0113 eV
+  Direct gap: 3.4591 eV

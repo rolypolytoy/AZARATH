@@ -1,0 +1,19 @@
+material_id: mp-27770
+band_gap: 1.521199999999999
+efermi: 0.98383133
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-2280010
+dos_total_band_gap: 1.4985
+dos_total_cbm: 2.4726
+dos_total_vbm: 0.9741000000000001
+dos_total_efermi: 0.982034299999999
+bs_setyawan_curtarolo_task_id: mp-689751
+bs_setyawan_curtarolo_band_gap: 1.521199999999999
+bs_setyawan_curtarolo_cbm: {'band_index': {'1': [36]}, 'kpoint_index': [60, 61], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': 2.4956, 'projections': {}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [35]}, 'kpoint_index': [84, 85], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59d30>, 'energy': 0.9744, 'projections': {}}
+bs_setyawan_curtarolo_efermi: 0.98383133
+bs_latimer_munro_task_id: mp-2608229
+bs_latimer_munro_band_gap: 1.5202
+bs_latimer_munro_cbm: {'band_index': {'1': [36]}, 'kpoint_index': ['119'], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a3c0>, 'energy': 2.4945, 'projections': {'1': [[0.0001, 0.0001, 0.0033, 0.0033, 0.0109, 0.0109, 0.0033, 0.0033], [0.0002, 0.0002, 0.0047, 0.0047, 0.020900000000000002, 0.020900000000000002, 0.0047, 0.0047], [0.0002, 0.0002, 0.021400000000000002, 0.021400000000000002, 0.0335, 0.0335, 0.021400000000000002, 0.021400000000000002], [0.0, 0.0, 0.0036000000000000003, 0.0036000000000000003, 0.0, 0.0, 0.0036000000000000003, 0.0036000000000000003], [0.09620000000000001, 0.09620000000000001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0175, 0.0175, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.13720000000000002, 0.13720000000000002, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.027600000000000003, 0.027600000000000003, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_vbm: {'band_index': {'1': [35]}, 'kpoint_index': [108, 109, 122, 134, 147, 158, 167], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a200>, 'energy': 0.9743, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0016, 0.0016, 0.0184, 0.0184, 0.08850000000000001, 0.08850000000000001, 0.0184, 0.0184], [0.0, 0.0, 0.0027, 0.0027, 0.013300000000000001, 0.013300000000000001, 0.0027, 0.0027], [0.0, 0.0, 0.012700000000000001, 0.012700000000000001, 0.0, 0.0, 0.012700000000000001, 0.012700000000000001], [0.149, 0.149, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.1013, 0.1013, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_efermi: 1.06816588

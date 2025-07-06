@@ -1,0 +1,19 @@
+material_id: mp-7017
+band_gap: 0.8101
+efermi: 3.927293279999999
+dos_magnetic_ordering: NM
+dos_total_task_id: mp-2300313
+dos_total_band_gap: 0.8101
+dos_total_cbm: 4.7373
+dos_total_vbm: 3.9272
+dos_total_efermi: 3.927293279999999
+bs_hinuma_task_id: mp-2057112
+bs_hinuma_band_gap: 0.8272
+bs_hinuma_cbm: {'band_index': {'1': [14]}, 'kpoint_index': [122, 123], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': 4.6371, 'projections': {'1': [[0.01, 0.0154, 0.0055000000000000005, 0.0055000000000000005], [0.0, 0.0, 0.0018000000000000002, 0.0018000000000000002], [0.0, 0.0, 0.0044, 0.0044], [0.0, 0.0, 0.0673, 0.0673], [0.0, 0.1515, 0.0, 0.0], [0.0, 0.0439, 0.0, 0.0], [0.0, 0.0692, 0.0, 0.0], [0.0, 0.1529, 0.0, 0.0], [0.0, 0.15030000000000002, 0.0, 0.0]]}}
+bs_hinuma_vbm: {'band_index': {'1': [12, 13]}, 'kpoint_index': [0, 79, 80, 148], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a3c0>, 'energy': 3.8099, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0], [0.0015, 0.0371, 0.32780000000000004, 0.32780000000000004], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_efermi: 4.12117281
+bs_latimer_munro_task_id: mp-2448472
+bs_latimer_munro_band_gap: 0.8272
+bs_latimer_munro_cbm: {'band_index': {'1': [14]}, 'kpoint_index': [223, 224, 238], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a430>, 'energy': 4.6371, 'projections': {'1': [[0.01, 0.0154, 0.0055000000000000005, 0.0055000000000000005], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.07350000000000001, 0.07350000000000001], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0594, 0.0, 0.0], [0.0, 0.1124, 0.0, 0.0], [0.0, 0.39580000000000004, 0.0, 0.0]]}}
+bs_latimer_munro_vbm: {'band_index': {'1': [12, 13]}, 'kpoint_index': [28, 29, 116, 117, 143, 193, 263], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59d30>, 'energy': 3.8099, 'projections': {'1': [[0.0, 0.0, 0.0, 0.0], [0.0015, 0.0371, 0.32780000000000004, 0.32780000000000004], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_latimer_munro_efermi: 4.1189138100000005

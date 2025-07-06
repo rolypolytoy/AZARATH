@@ -1,0 +1,24 @@
+Material: mp-28013
+==================================================
+
+Band Gap: 1.1708 eV
+Fermi Energy: 2.4329 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -50.99 to 16.29 eV
+  Fermi energy (DOS): 2.1719 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 136
+  Bands: 96
+  Fermi energy (BS): 2.4329 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 2.1667 eV
+  CBM: 3.3375 eV
+  Direct gap: 2.2412 eV

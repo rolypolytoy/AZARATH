@@ -1,0 +1,24 @@
+Material: mp-31002
+==================================================
+
+Band Gap: 0.2365 eV
+Fermi Energy: 3.2169 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -25.69 to 13.72 eV
+  Fermi energy (DOS): 3.0788 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 423
+  Bands: 64
+  Fermi energy (BS): 3.2169 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 3.1045 eV
+  CBM: 3.3410 eV
+  Direct gap: 0.4784 eV

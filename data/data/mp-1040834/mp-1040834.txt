@@ -1,0 +1,24 @@
+Material: mp-1040834
+==================================================
+
+Band Gap: 1.4003 eV
+Fermi Energy: 2.9096 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -41.06 to 25.64 eV
+  Fermi energy (DOS): 2.8050 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 100
+  Bands: 72
+  Fermi energy (BS): 2.9096 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 2.8242 eV
+  CBM: 4.2245 eV
+  Direct gap: 1.5423 eV

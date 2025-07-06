@@ -1,0 +1,14 @@
+material_id: mp-1226292
+band_gap: 0.0
+efermi: 5.03683866
+dos_magnetic_ordering: FiM
+dos_total_task_id: mp-1734049
+dos_total_band_gap: 0.0
+dos_total_cbm: 5.0361
+dos_total_vbm: 5.0674
+dos_total_efermi: 5.03683866
+bs_latimer_munro_task_id: mp-2307331
+bs_latimer_munro_band_gap: 0.0
+bs_latimer_munro_cbm: None
+bs_latimer_munro_vbm: None
+bs_latimer_munro_efermi: 4.98381391

@@ -1,0 +1,24 @@
+Material: mp-6949
+==================================================
+
+Band Gap: 4.0226 eV
+Fermi Energy: -1.7436 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -24.51 to 33.17 eV
+  Fermi energy (DOS): -1.8017 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 109
+  Bands: 64
+  Fermi energy (BS): -1.7436 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: -1.7977 eV
+  CBM: 2.2249 eV
+  Direct gap: 4.0497 eV

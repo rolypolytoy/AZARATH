@@ -1,0 +1,23 @@
+Material: mp-8035
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 0.3100 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -17.65 to 16.63 eV
+  Fermi energy (DOS): 0.4526 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 133
+  Bands: 54
+  Fermi energy (BS): 0.3100 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+
+Band edges: N/A (metallic system)

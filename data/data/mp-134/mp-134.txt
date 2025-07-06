@@ -1,0 +1,23 @@
+Material: mp-134
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.0588 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -5.45 to 45.82 eV
+  Fermi energy (DOS): 8.0378 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 1016
+  Bands: 12
+  Fermi energy (BS): 7.0588 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'W', 'K', 'L', 'U']
+
+Band edges:
+
+Band edges: N/A (metallic system)

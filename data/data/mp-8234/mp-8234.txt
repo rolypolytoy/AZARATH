@@ -1,0 +1,24 @@
+Material: mp-8234
+==================================================
+
+Band Gap: 0.8198 eV
+Fermi Energy: 4.4883 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -24.78 to 12.45 eV
+  Fermi energy (DOS): 4.4431 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 108
+  Bands: 96
+  Fermi energy (BS): 4.4883 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+  VBM: 4.4323 eV
+  CBM: 5.2521 eV
+  Direct gap: 0.9529 eV

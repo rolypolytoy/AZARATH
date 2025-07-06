@@ -1,0 +1,24 @@
+Material: mp-6922
+==================================================
+
+Band Gap: 5.5311 eV
+Fermi Energy: 0.3869 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -21.56 to 35.78 eV
+  Fermi energy (DOS): 0.3510 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 127
+  Bands: 48
+  Fermi energy (BS): 0.3869 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 0.3492 eV
+  CBM: 5.8803 eV
+  Direct gap: 5.7224 eV

@@ -1,0 +1,24 @@
+Material: mp-2076
+==================================================
+
+Band Gap: 0.3296 eV
+Fermi Energy: 2.4115 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -50.16 to 14.30 eV
+  Fermi energy (DOS): 2.2176 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 676
+  Bands: 96
+  Fermi energy (BS): 2.4115 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 2.2069 eV
+  CBM: 2.5365 eV
+  Direct gap: 1.0537 eV

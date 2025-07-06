@@ -1,0 +1,24 @@
+Material: mp-23205
+==================================================
+
+Band Gap: 3.6162 eV
+Fermi Energy: 1.3033 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -43.46 to 15.65 eV
+  Fermi energy (DOS): 1.1508 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 132
+  Bands: 24
+  Fermi energy (BS): 1.3033 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 1.1481 eV
+  CBM: 4.7643 eV
+  Direct gap: 3.7060 eV

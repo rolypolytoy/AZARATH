@@ -1,0 +1,23 @@
+Material: mp-20689
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.0136 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.83 to 26.14 eV
+  Fermi energy (DOS): 5.9543 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 642
+  Bands: 96
+  Fermi energy (BS): 6.0136 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

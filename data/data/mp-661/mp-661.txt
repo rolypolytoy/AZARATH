@@ -1,0 +1,24 @@
+Material: mp-661
+==================================================
+
+Band Gap: 4.0467 eV
+Fermi Energy: 6.0810 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -10.62 to 22.94 eV
+  Fermi energy (DOS): 5.9895 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 178
+  Bands: 16
+  Fermi energy (BS): 6.0810 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 6.0058 eV
+  CBM: 10.0525 eV
+  Direct gap: 4.0467 eV

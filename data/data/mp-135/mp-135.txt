@@ -1,0 +1,23 @@
+Material: mp-135
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 0.3178 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -50.91 to 41.12 eV
+  Fermi energy (DOS): -0.2071 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 264
+  Bands: 10
+  Fermi energy (BS): 0.3178 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'H', 'N', 'P']
+
+Band edges:
+
+Band edges: N/A (metallic system)

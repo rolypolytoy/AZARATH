@@ -1,0 +1,24 @@
+Material: mp-34202
+==================================================
+
+Band Gap: 0.3388 eV
+Fermi Energy: 5.1703 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -8.95 to 14.60 eV
+  Fermi energy (DOS): 4.9927 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 519
+  Bands: 96
+  Fermi energy (BS): 5.1703 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 5.0786 eV
+  CBM: 5.4174 eV
+  Direct gap: 0.3388 eV

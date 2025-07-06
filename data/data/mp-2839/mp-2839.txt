@@ -1,0 +1,23 @@
+Material: mp-2839
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.0988 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -29.36 to 15.62 eV
+  Fermi energy (DOS): 7.1022 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 828
+  Bands: 96
+  Fermi energy (BS): 7.0988 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

@@ -1,0 +1,23 @@
+Material: mp-36
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 3.7704 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -49.32 to 32.44 eV
+  Fermi energy (DOS): 3.7388 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 891
+  Bands: 96
+  Fermi energy (BS): 3.7704 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'W', 'K', 'L', 'U']
+
+Band edges:
+
+Band edges: N/A (metallic system)

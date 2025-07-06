@@ -1,0 +1,24 @@
+Material: mp-861891
+==================================================
+
+Band Gap: 0.8221 eV
+Fermi Energy: -0.4508 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -17.97 to 14.40 eV
+  Fermi energy (DOS): -0.5063 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 117
+  Bands: 40
+  Fermi energy (BS): -0.4508 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+  VBM: -0.4695 eV
+  CBM: 0.3526 eV
+  Direct gap: 0.8221 eV

@@ -1,0 +1,23 @@
+Material: mp-21400
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 5.6973 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -11.45 to 22.06 eV
+  Fermi energy (DOS): 5.1795 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 650
+  Bands: 64
+  Fermi energy (BS): 5.6973 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

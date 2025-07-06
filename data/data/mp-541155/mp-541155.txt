@@ -1,0 +1,24 @@
+Material: mp-541155
+==================================================
+
+Band Gap: 0.9239 eV
+Fermi Energy: 3.0714 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -38.10 to 19.40 eV
+  Fermi energy (DOS): 2.9631 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 83
+  Bands: 160
+  Fermi energy (BS): 3.0714 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 2.9876 eV
+  CBM: 3.9115 eV
+  Direct gap: 0.9528 eV

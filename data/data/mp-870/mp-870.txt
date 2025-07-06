@@ -1,0 +1,24 @@
+Material: mp-870
+==================================================
+
+Band Gap: 1.7584 eV
+Fermi Energy: 2.2396 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -22.53 to 15.98 eV
+  Fermi energy (DOS): 2.1340 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 126
+  Bands: 96
+  Fermi energy (BS): 2.2396 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 2.1560 eV
+  CBM: 3.9144 eV
+  Direct gap: 2.2464 eV

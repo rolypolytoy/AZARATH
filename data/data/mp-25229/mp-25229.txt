@@ -1,0 +1,23 @@
+Material: mp-25229
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: -0.2257 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -75.08 to 27.17 eV
+  Fermi energy (DOS): -0.1815 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 569
+  Bands: 80
+  Fermi energy (BS): -0.2257 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'P', 'N', 'Z_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

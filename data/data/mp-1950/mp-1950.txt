@@ -1,0 +1,24 @@
+Material: mp-1950
+==================================================
+
+Band Gap: 1.2822 eV
+Fermi Energy: 4.0245 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -33.34 to 19.54 eV
+  Fermi energy (DOS): 3.9115 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 128
+  Bands: 42
+  Fermi energy (BS): 4.0245 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 3.9534 eV
+  CBM: 5.2356 eV
+  Direct gap: 2.0543 eV

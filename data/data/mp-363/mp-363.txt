@@ -1,0 +1,23 @@
+Material: mp-363
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.5792 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.90 to 21.56 eV
+  Fermi energy (DOS): 5.6399 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 545
+  Bands: 128
+  Fermi energy (BS): 7.5792 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

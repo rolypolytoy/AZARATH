@@ -1,0 +1,23 @@
+Material: mp-31000
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: -0.0263 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -29.32 to 20.19 eV
+  Fermi energy (DOS): -0.0264 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 576
+  Bands: 64
+  Fermi energy (BS): -0.0263 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+
+Band edges: N/A (metallic system)

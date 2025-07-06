@@ -1,0 +1,23 @@
+Material: mp-7302
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 8.4728 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -37.79 to 29.43 eV
+  Fermi energy (DOS): 8.5309 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 633
+  Bands: 96
+  Fermi energy (BS): 8.4728 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'H', 'Z', 'I', 'F_1', 'H_1', 'Y_1', 'X', 'N', 'M']
+
+Band edges:
+
+Band edges: N/A (metallic system)

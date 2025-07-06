@@ -1,0 +1,23 @@
+Material: mp-849080
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: -0.2692 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -42.17 to 29.91 eV
+  Fermi energy (DOS): -0.5429 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 924
+  Bands: 64
+  Fermi energy (BS): -0.2692 eV
+  Spin channels: 1
+  High symmetry points: ['X', '\\Gamma', 'Y', 'L', 'Z', 'N', 'M', 'R']
+
+Band edges:
+
+Band edges: N/A (metallic system)

@@ -1,0 +1,24 @@
+Material: mp-2437
+==================================================
+
+Band Gap: 1.1411 eV
+Fermi Energy: 2.2750 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -24.39 to 19.15 eV
+  Fermi energy (DOS): 2.1741 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 119
+  Bands: 96
+  Fermi energy (BS): 2.2750 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 2.1673 eV
+  CBM: 3.3084 eV
+  Direct gap: 1.2632 eV

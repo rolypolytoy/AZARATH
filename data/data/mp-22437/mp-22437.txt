@@ -1,0 +1,23 @@
+Material: mp-22437
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 7.3981 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -37.01 to 21.00 eV
+  Fermi energy (DOS): 7.4165 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 115
+  Bands: 264
+  Fermi energy (BS): 7.3981 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'P', 'Z', 'Q', 'F', 'P_1', 'Q_1', 'L']
+
+Band edges:
+
+Band edges: N/A (metallic system)

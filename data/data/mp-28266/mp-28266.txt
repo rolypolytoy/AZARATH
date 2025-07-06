@@ -1,0 +1,24 @@
+Material: mp-28266
+==================================================
+
+Band Gap: 0.3419 eV
+Fermi Energy: 6.1181 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -9.39 to 16.72 eV
+  Fermi energy (DOS): 6.1481 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 649
+  Bands: 64
+  Fermi energy (BS): 6.1181 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'H', 'F_1', 'H_1', 'Y_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 6.0633 eV
+  CBM: 6.4052 eV
+  Direct gap: 0.3419 eV

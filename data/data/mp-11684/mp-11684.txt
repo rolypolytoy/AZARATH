@@ -1,0 +1,24 @@
+Material: mp-11684
+==================================================
+
+Band Gap: 5.5458 eV
+Fermi Energy: 1.9183 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -20.12 to 35.83 eV
+  Fermi energy (DOS): 1.8465 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 114
+  Bands: 160
+  Fermi energy (BS): 1.9183 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'H', 'Z', 'I', 'F_1', 'H_1', 'Y_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 1.8535 eV
+  CBM: 7.3993 eV
+  Direct gap: 5.6858 eV

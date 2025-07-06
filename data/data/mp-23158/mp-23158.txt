@@ -1,0 +1,24 @@
+Material: mp-23158
+==================================================
+
+Band Gap: 17.6377 eV
+Fermi Energy: -13.5913 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -18.94 to 52.32 eV
+  Fermi energy (DOS): -14.1261 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 194
+  Bands: 96
+  Fermi energy (BS): -13.5913 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'H', 'N', 'P']
+
+Band edges:
+  VBM: -14.1282 eV
+  CBM: 3.5095 eV
+  Direct gap: 18.1848 eV

@@ -1,0 +1,23 @@
+Material: mp-975509
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 1.1244 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -29.90 to 11.14 eV
+  Fermi energy (DOS): 1.1573 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 464
+  Bands: 48
+  Fermi energy (BS): 1.1244 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

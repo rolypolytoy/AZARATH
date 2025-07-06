@@ -1,0 +1,24 @@
+Material: mp-1771
+==================================================
+
+Band Gap: 2.7046 eV
+Fermi Energy: -2.0740 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -30.26 to 23.58 eV
+  Fermi energy (DOS): -2.2301 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 114
+  Bands: 96
+  Fermi energy (BS): -2.0740 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: -2.1616 eV
+  CBM: 0.5430 eV
+  Direct gap: 2.7569 eV

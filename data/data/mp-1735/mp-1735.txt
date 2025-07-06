@@ -1,0 +1,24 @@
+Material: mp-1735
+==================================================
+
+Band Gap: 1.6160 eV
+Fermi Energy: 0.3970 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.80 to 19.89 eV
+  Fermi energy (DOS): 0.3672 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 158
+  Bands: 20
+  Fermi energy (BS): 0.3970 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: 0.3592 eV
+  CBM: 1.9752 eV
+  Direct gap: 2.3042 eV

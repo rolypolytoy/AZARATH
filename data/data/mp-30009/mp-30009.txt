@@ -1,0 +1,24 @@
+Material: mp-30009
+==================================================
+
+Band Gap: 2.9200 eV
+Fermi Energy: -3.2945 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -29.27 to 72.74 eV
+  Fermi energy (DOS): -3.5393 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 161
+  Bands: 96
+  Fermi energy (BS): -3.2945 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+  VBM: -3.5275 eV
+  CBM: -0.6075 eV
+  Direct gap: 2.9924 eV

@@ -1,0 +1,23 @@
+Material: mp-2728
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 8.4750 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -44.26 to 33.27 eV
+  Fermi energy (DOS): 8.1700 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 1073
+  Bands: 96
+  Fermi energy (BS): 8.4750 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

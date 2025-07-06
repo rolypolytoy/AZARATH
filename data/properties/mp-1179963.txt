@@ -1,0 +1,19 @@
+material_id: mp-1179963
+band_gap: 0.7054
+efermi: -1.6637586
+dos_magnetic_ordering: FiM
+dos_total_task_id: mp-1731994
+dos_total_band_gap: 1.5285000000000002
+dos_total_cbm: -0.24780000000000002
+dos_total_vbm: -1.7763
+dos_total_efermi: -1.77163915
+bs_setyawan_curtarolo_task_id: mp-1586899
+bs_setyawan_curtarolo_band_gap: 0.7054
+bs_setyawan_curtarolo_cbm: {'band_index': {'-1': [14], '1': []}, 'kpoint_index': [0, 49, 50], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc699d63930>, 'energy': -1.0573, 'projections': {'-1': [[0.0013000000000000002, 0.1361, 0.0071, 0.0071], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0032, 0.0032], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.159, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_setyawan_curtarolo_vbm: {'band_index': {'1': [16], '-1': []}, 'kpoint_index': [88, 89, 129], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b59be0>, 'energy': -1.7627000000000002, 'projections': {'1': [[0.0, 0.2464, 0.0005, 0.0005], [0.0, 0.0, 0.0, 0.0], [0.0068000000000000005, 0.0, 0.07200000000000001, 0.07200000000000001], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.3085, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_setyawan_curtarolo_efermi: -1.6637586
+bs_hinuma_task_id: mp-2053634
+bs_hinuma_band_gap: 0.7054
+bs_hinuma_cbm: {'band_index': {'-1': [14], '1': []}, 'kpoint_index': [0, 49, 50], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a430>, 'energy': -1.0573, 'projections': {'-1': [[0.0013000000000000002, 0.1361, 0.0071, 0.0071], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0032, 0.0032], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.159, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_vbm: {'band_index': {'1': [16], '-1': []}, 'kpoint_index': [88, 89, 120], 'kpoint': <pymatgen.electronic_structure.bandstructure.Kpoint object at 0x7fc5d4b5a350>, 'energy': -1.7627000000000002, 'projections': {'1': [[0.0, 0.2464, 0.0005, 0.0005], [0.0, 0.0, 0.0, 0.0], [0.0068000000000000005, 0.0, 0.07200000000000001, 0.07200000000000001], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.3085, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]}}
+bs_hinuma_efermi: -1.65593771

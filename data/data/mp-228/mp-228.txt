@@ -1,0 +1,23 @@
+Material: mp-228
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 6.9729 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -42.22 to 23.06 eV
+  Fermi energy (DOS): 6.7054 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 682
+  Bands: 80
+  Fermi energy (BS): 6.9729 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

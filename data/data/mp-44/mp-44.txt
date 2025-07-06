@@ -1,0 +1,23 @@
+Material: mp-44
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 15.1823 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -30.92 to 20.57 eV
+  Fermi energy (DOS): 15.0954 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 1058
+  Bands: 96
+  Fermi energy (BS): 15.1823 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'S', 'R', 'A', 'Z', 'Y', 'X_1', 'A_1', 'T']
+
+Band edges:
+
+Band edges: N/A (metallic system)

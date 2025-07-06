@@ -1,0 +1,24 @@
+Material: mp-7904
+==================================================
+
+Band Gap: 0.6551 eV
+Fermi Energy: 5.0656 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -10.95 to 12.76 eV
+  Fermi energy (DOS): 4.9610 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 110
+  Bands: 64
+  Fermi energy (BS): 5.0656 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: 4.9600 eV
+  CBM: 5.6151 eV
+  Direct gap: 0.6791 eV

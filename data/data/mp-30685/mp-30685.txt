@@ -1,0 +1,23 @@
+Material: mp-30685
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 4.6193 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -47.32 to 22.18 eV
+  Fermi energy (DOS): 4.3254 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 729
+  Bands: 96
+  Fermi energy (BS): 4.6193 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

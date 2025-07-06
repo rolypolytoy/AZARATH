@@ -1,0 +1,24 @@
+Material: mp-7826
+==================================================
+
+Band Gap: 1.3101 eV
+Fermi Energy: 0.2775 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -18.69 to 17.02 eV
+  Fermi energy (DOS): 0.2193 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 143
+  Bands: 52
+  Fermi energy (BS): 0.2775 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 0.2139 eV
+  CBM: 1.5240 eV
+  Direct gap: 1.3884 eV

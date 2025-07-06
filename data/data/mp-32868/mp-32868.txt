@@ -1,0 +1,24 @@
+Material: mp-32868
+==================================================
+
+Band Gap: 0.6243 eV
+Fermi Energy: 2.1089 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -12.34 to 21.17 eV
+  Fermi energy (DOS): 2.0997 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 113
+  Bands: 80
+  Fermi energy (BS): 2.1089 eV
+  Spin channels: 1
+  High symmetry points: ['X', '\\Gamma', 'Y', 'L', 'Z', 'N', 'M', 'R']
+
+Band edges:
+  VBM: 2.0770 eV
+  CBM: 2.7013 eV
+  Direct gap: 0.7597 eV

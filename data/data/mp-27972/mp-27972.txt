@@ -1,0 +1,24 @@
+Material: mp-27972
+==================================================
+
+Band Gap: 4.1033 eV
+Fermi Energy: 1.1763 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -34.58 to 10.13 eV
+  Fermi energy (DOS): 1.0531 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 103
+  Bands: 96
+  Fermi energy (BS): 1.1763 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 1.0375 eV
+  CBM: 5.1408 eV
+  Direct gap: 4.1062 eV

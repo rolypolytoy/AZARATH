@@ -1,0 +1,24 @@
+Material: mp-22003
+==================================================
+
+Band Gap: 4.0268 eV
+Fermi Energy: -0.1447 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -26.64 to 65.12 eV
+  Fermi energy (DOS): -0.1587 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 146
+  Bands: 96
+  Fermi energy (BS): -0.1447 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: -0.2634 eV
+  CBM: 3.7634 eV
+  Direct gap: 4.4276 eV

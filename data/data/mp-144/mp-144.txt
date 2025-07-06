@@ -1,0 +1,23 @@
+Material: mp-144
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 3.0574 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -23.13 to 16.34 eV
+  Fermi energy (DOS): 2.9500 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 735
+  Bands: 20
+  Fermi energy (BS): 3.0574 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+
+Band edges: N/A (metallic system)

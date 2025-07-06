@@ -1,0 +1,24 @@
+Material: mp-2071
+==================================================
+
+Band Gap: 0.3144 eV
+Fermi Energy: 3.2754 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -9.94 to 15.95 eV
+  Fermi energy (DOS): 3.2164 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 81
+  Bands: 336
+  Fermi energy (BS): 3.2754 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+  VBM: 3.2333 eV
+  CBM: 3.5477 eV
+  Direct gap: 0.3144 eV

@@ -1,0 +1,23 @@
+Material: mp-1407
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 5.1390 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -44.24 to 17.27 eV
+  Fermi energy (DOS): 5.4062 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 564
+  Bands: 96
+  Fermi energy (BS): 5.1390 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'P', 'Z', 'Q', 'F', 'P_1', 'Q_1', 'L']
+
+Band edges:
+
+Band edges: N/A (metallic system)

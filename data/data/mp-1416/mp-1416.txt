@@ -1,0 +1,23 @@
+Material: mp-1416
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 1.4559 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -37.21 to 52.07 eV
+  Fermi energy (DOS): 1.5176 eV
+  Spin channels: 2
+
+Band Structure Information:
+  K-points: 705
+  Bands: 96
+  Fermi energy (BS): 1.4559 eV
+  Spin channels: 2
+  High symmetry points: ['\\Gamma', 'X', 'Y', '\\Sigma', 'Z', '\\Sigma_1', 'N', 'P', 'Y_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)

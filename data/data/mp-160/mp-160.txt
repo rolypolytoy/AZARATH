@@ -1,0 +1,24 @@
+Material: mp-160
+==================================================
+
+Band Gap: 1.4334 eV
+Fermi Energy: 6.1504 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -11.80 to 25.96 eV
+  Fermi energy (DOS): 6.0399 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 125
+  Bands: 64
+  Fermi energy (BS): 6.1504 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 6.0636 eV
+  CBM: 7.4970 eV
+  Direct gap: 1.8271 eV

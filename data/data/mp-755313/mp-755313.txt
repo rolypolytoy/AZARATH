@@ -1,0 +1,24 @@
+Material: mp-755313
+==================================================
+
+Band Gap: 4.1276 eV
+Fermi Energy: 2.3570 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -48.21 to 28.45 eV
+  Fermi energy (DOS): 2.2769 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 115
+  Bands: 78
+  Fermi energy (BS): 2.3570 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 2.2628 eV
+  CBM: 6.3904 eV
+  Direct gap: 4.2081 eV

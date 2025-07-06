@@ -1,0 +1,24 @@
+Material: mp-1705
+==================================================
+
+Band Gap: 0.5057 eV
+Fermi Energy: 5.0968 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -16.51 to 26.62 eV
+  Fermi energy (DOS): 5.0604 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 127
+  Bands: 96
+  Fermi energy (BS): 5.0968 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'F', 'L', 'I', 'I_1', 'Z', 'F_1', 'X_1', 'X', 'N', 'M']
+
+Band edges:
+  VBM: 5.0454 eV
+  CBM: 5.5511 eV
+  Direct gap: 0.5590 eV

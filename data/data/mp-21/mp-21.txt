@@ -1,0 +1,23 @@
+Material: mp-21
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 2.0863 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -42.93 to 22.09 eV
+  Fermi energy (DOS): 2.0477 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 676
+  Bands: 16
+  Fermi energy (BS): 2.0863 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'H', 'N', 'P']
+
+Band edges:
+
+Band edges: N/A (metallic system)

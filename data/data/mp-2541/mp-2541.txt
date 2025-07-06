@@ -1,0 +1,23 @@
+Material: mp-2541
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 5.1832 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -38.38 to 19.22 eV
+  Fermi energy (DOS): 5.3967 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 816
+  Bands: 96
+  Fermi energy (BS): 5.1832 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'R', 'A']
+
+Band edges:
+
+Band edges: N/A (metallic system)

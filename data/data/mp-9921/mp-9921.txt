@@ -1,0 +1,24 @@
+Material: mp-9921
+==================================================
+
+Band Gap: 1.1133 eV
+Fermi Energy: 2.9881 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -48.48 to 13.89 eV
+  Fermi energy (DOS): 2.9475 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 119
+  Bands: 96
+  Fermi energy (BS): 2.9881 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'Y', 'H', 'C', 'E', 'M_1', 'A', 'X', 'H_1', 'M', 'D', 'Z']
+
+Band edges:
+  VBM: 2.9096 eV
+  CBM: 4.0229 eV
+  Direct gap: 1.1398 eV

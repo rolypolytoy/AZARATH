@@ -1,0 +1,24 @@
+Material: mp-7581
+==================================================
+
+Band Gap: 1.3620 eV
+Fermi Energy: 3.7586 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -34.83 to 38.01 eV
+  Fermi energy (DOS): 3.5984 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 149
+  Bands: 64
+  Fermi energy (BS): 3.7586 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'L', 'B_1', 'B', 'Z', 'X', 'Q', 'F', 'P_1', 'P']
+
+Band edges:
+  VBM: 3.6096 eV
+  CBM: 4.9716 eV
+  Direct gap: 1.4305 eV

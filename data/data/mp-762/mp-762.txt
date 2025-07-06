@@ -1,0 +1,24 @@
+Material: mp-762
+==================================================
+
+Band Gap: 1.5467 eV
+Fermi Energy: 2.9206 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -12.75 to 17.12 eV
+  Fermi energy (DOS): 2.7561 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 156
+  Bands: 96
+  Fermi energy (BS): 2.9206 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 2.7565 eV
+  CBM: 4.3032 eV
+  Direct gap: 1.7740 eV

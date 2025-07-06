@@ -1,0 +1,24 @@
+Material: mp-8938
+==================================================
+
+Band Gap: 0.0936 eV
+Fermi Energy: 11.1498 eV
+Is Metal: False
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -26.42 to 19.05 eV
+  Fermi energy (DOS): 11.0901 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 585
+  Bands: 96
+  Fermi energy (BS): 11.1498 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'M', 'K', 'A', 'L', 'H']
+
+Band edges:
+  VBM: 11.0984 eV
+  CBM: 11.1920 eV
+  Direct gap: 0.5380 eV

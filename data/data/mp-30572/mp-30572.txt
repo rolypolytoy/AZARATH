@@ -1,0 +1,23 @@
+Material: mp-30572
+==================================================
+
+Band Gap: 0.0000 eV
+Fermi Energy: 4.2190 eV
+Is Metal: True
+
+DOS Information:
+  Energy points: 2001
+  Energy range: -27.97 to 13.16 eV
+  Fermi energy (DOS): 4.2812 eV
+  Spin channels: 1
+
+Band Structure Information:
+  K-points: 602
+  Bands: 48
+  Fermi energy (BS): 4.2190 eV
+  Spin channels: 1
+  High symmetry points: ['\\Gamma', 'X', 'M', 'Z', 'P', 'N', 'Z_1']
+
+Band edges:
+
+Band edges: N/A (metallic system)
