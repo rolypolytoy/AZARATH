@@ -1,5 +1,16 @@
 # AZARATH
-An open dataset to train GNN models on to predict properties of various materials like bandgaps, Fermi levels, as well as density-of-states and band structure diagrams. Includes over 51k materials, indexed from the Materials Project on 6th July 2025.
+
+AZARATH enables a new class of materials prediction models that can generate complete electronic property profiles, not just scalar values. This represents a significant step toward AI-driven materials discovery workflows. Built from 51,037 materials using the latest Materials Project API, AZARATH provides zero-friction access to complex electronic properties, accessible in the easy-to-use .gnuplot and .txt formats.
+
+## Improvements
+
+GNNs can predict scalar properties with reasonable accuracy, but there are very few options that can directly predict density-of-states (DOS) and band structure, directly from atomic coordinates. To rectify this, we've made AZARATH with a few key improvements over existing datasets, to facilitate rapid research in this field:
+
+- Density of States and Band Structure: We provide 51,037 materials with several scalar values highly important to DOS and band structure, to provide the basis for a pretraining stage for a GNN. Then, we provide over 3,999 direct examples of density-of-states diagrams and band structure diagrams.
+
+- Preprocessing: Materials Project's API packages its files as .pkl (pickle) files, which takes up incredible amounts of space and require custom parsing to use. We've already preprocessed all the .pkl data into .txt and .gnuplot formats, to provide extremely easy facilitation of such research. We've also provided scripts to rapidly convert the .gnuplot files to images.
+
+- Infrastructure: We provide all our scripts, including what we used for downloading, cleaning, parsing, and management. Simply insert your free API key to materials project, pick the parameters that you want it to return, and create massive datasets of your own. 
 
 ## Usage
 Simply clone the repository via:
@@ -45,4 +56,4 @@ The larger dataset's intent is to provide an easy to set-up dataset for pretrain
 ## Process
 We first used the [Materials Project API](https://next-gen.materialsproject.org/api) to collect the raw .pkl files with the arguments we wanted. We then identified what data structures it used and parsed the information we wanted, and converted it as-is. You can use image.py to mass convert all the .gnuplots to images, but .gnuplot files are superior numerically, when you're, for example, pretraining GNNs.
 
-The process is relatively simple, and all scripts we used are provided here. All of this is open source under the MIT License, and we hope this helps the creation of more custom datasets. 
+The process is relatively simple, and all scripts we used are provided here. All of this is open source under the MIT License, and we hope this helps the creation of more custom datasets, and powerful GNNs. 
