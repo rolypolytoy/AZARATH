@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 import glob
 
-API_KEY = "bPPHCDUmGEU3ijZ3lnG8FGRK7TKaZxZe"
+API_KEY = "API Key here"
 DATA_DIR = Path("data")
 BATCH_SIZE = 10000
 MAX_WORKERS = 8

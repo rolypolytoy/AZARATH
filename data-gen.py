@@ -6,7 +6,7 @@ from pathlib import Path
 from tqdm import tqdm
 from mp_api.client import MPRester
 
-API_KEY = "bPPHCDUmGEU3ijZ3lnG8FGRK7TKaZxZe"
+API_KEY = "API key here"
 DATA_DIR = Path("data")
 BATCH_SIZE = 1000
 
